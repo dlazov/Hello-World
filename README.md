@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-Traditional Hello World for GitHub
+Traditional Hello World programs for GitHub using various languages.
